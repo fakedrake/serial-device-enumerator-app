@@ -1,5 +1,5 @@
 # Serial Device Enumerator Chrome App
-Chrome app that shows serial devices recognized by Chrome
+Chrome app that shows all information that Chrome knows about serial devices.
 
 ## Installation steps
 1. Clone this repository
